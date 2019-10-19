@@ -1,5 +1,5 @@
 # HacktoberfestList
 Add your username with an embedded link below!
-Make sure you fork, edit, and create a pull request!
+Make sure you create a new pull request!
 
 [Karoawr](https://github.com/Karoawr)
